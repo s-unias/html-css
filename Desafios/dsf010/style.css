@@ -51,13 +51,15 @@ header {
 }
 
 header > h1 {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     font: var(--emp-font);
     font-size: 3em;
 }
 
 header > p {
     font-size: 1.2em;
+    margin-bottom: 0;
+    padding-bottom: 20px;
 }
 
 nav {
